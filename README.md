@@ -41,27 +41,11 @@ Here are some ideas to get you started:
 
 
 
-  
- ### 🧪 Frameworks,Technologies and Libraries
+ ### 🧪 Frameworks and Libraries
 <p align="left">
   <p align="left">
         <a href="https://nodejs.org" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/java.png" alt="Java" width="40" height="40"/>
-    </a>
-    <span></span>
-	
-        <a href="https://nodejs.org" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/android.png" alt="Android" width="40" height="40"/>
-    </a>
-    <span></span>
-	
-        <a href="https://nodejs.org" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/desktop.png" alt="Desktop Application" width="40" height="40"/>
-    </a>
-    <span></span>
-	<p align="left">
-        <a href="https://nodejs.org" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="Rest Api" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="NodeJS" width="40" height="40"/>
     </a>
     <span></span>
     <a href="https://getbootstrap.com/" target="_blank">
@@ -69,37 +53,17 @@ Here are some ideas to get you started:
     </a>
       <span></span>
       <a href="https://wordpress.org" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="Mysql" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/40/000000/wordpress.png" alt="WordPress" width="40" height="40"/>
     </a>
     <span></span>
     <a href="https://firebase.google.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/40/000000/firebase.png" alt="Firebase" width="40" height="40"/>
     </a>
     <span></span>
     <a href="https://www.electronjs.org/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Mongo DB" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/40/000000/react-native.png" alt="ElectronJS" width="40" height="40"/>
     </a>
     <span></span>
-  </p>
-  
-### 🐱‍🏍 Social Platform
-
-<p align="left">
-  <p align="left">
-    
-    <a href="https://stackoverflow.com/users/11936657/vinit-saini" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/stackexchange.png" alt="Stack Exchange Account" width="40" height="40"/>
-    </a>
-	  <span></span>
-      <a href="https://github.com/sainivinit" target="_blank">
-      <img src="https://img.icons8.com/fluent/40/000000/github.png" alt="Github Account" width="40" height="40"/>
-    </a>
-    <span></span>
-    <a href="https://www.instagram.com/saini_vinit/" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn Account" width="40" height="40"/>
-    </a>
-      <span></span>
- 
   </p>
   
 ### How to contact me : 📫
