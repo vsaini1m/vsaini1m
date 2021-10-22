@@ -39,9 +39,69 @@ Here are some ideas to get you started:
 - [Tic Tac Toe rest api using spring boot](https://github.com/sainivinit/TicTacToe/)
 - [Contact Manager spring boot and thymeleaf](https://github.com/sainivinit/Smart-Contact/)
 
+
+ ### 🧪 Frameworks and Libraries
+<p align="left">
+  <p align="left">
+        <a href="https://nodejs.org" target="_blank">
+      <img src="https://img.icons8.com/color/40/000000/java.png" alt="Java" width="40" height="40"/>
+    </a>
+    <span></span>
+	<p align="left">
+        <a href="https://nodejs.org" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/android.png" alt="Android" width="40" height="40"/>
+    </a>
+    <span></span>
+	 <p align="left">
+        <a href="https://nodejs.org" target="_blank">
+      <img src="https://img.icons8.com/color/40/000000/java.png" alt="Java" width="40" height="40"/>
+    </a>
+    <span></span>
+	<p align="left">
+        <a href="https://nodejs.org" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="Rest Api" width="40" height="40"/>
+    </a>
+    <span></span>
+    <a href="https://getbootstrap.com/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Boostrap" width="40" height="40"/>
+    </a>
+      <span></span>
+      <a href="https://wordpress.org" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="Mysql" width="40" height="40"/>
+    </a>
+    <span></span>
+    <a href="https://firebase.google.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
+    </a>
+    <span></span>
+    <a href="https://www.electronjs.org/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Mongo DB" width="40" height="40"/>
+    </a>
+    <span></span>
+  </p>
+  
+### 🐱‍🏍 Social Platform
+
+<p align="left">
+  <p align="left">
+    <span></span>
+    <a href="https://stackoverflow.com/users/11936657/vinit-saini" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/stackexchange.png" alt="Stack Exchange Account" width="40" height="40"/>
+    </a>
+      <a href="https://github.com/sainivinit" target="_blank">
+      <img src="https://img.icons8.com/fluent/40/000000/github.png" alt="Github Account" width="40" height="40"/>
+    </a>
+    <span></span>
+    <a href="https://www.instagram.com/saini_vinit/" target="_blank">
+      <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn Account" width="40" height="40"/>
+    </a>
+      <span></span>
+ 
+  </p>
+  
 ### How to contact me : 📫
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9sE_pO5TFEnpNip5F5OGl_K9VfDxn6jOOw&usqp=CAU" width="30px">](https://www.facebook.com/vinit975/)
 [<img src="https://peopleplus.co.uk/wp-content/uploads/2020/03/linkedin-icon.png" width="30px">](https://www.linkedin.com/in/vinit-saini-974a141a9/)
-[<img src="https://user-images.githubusercontent.com/36606431/115982693-a83cf780-a5ba-11eb-9b9e-3633f9366761.png" width="30px">](https://www.instagram.com/saini_vinit/)
+
 
