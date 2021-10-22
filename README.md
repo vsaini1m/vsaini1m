@@ -76,3 +76,33 @@ Here are some ideas to get you started:
     </a>
     <span></span>
   </p>
+### 🐱‍🏍 Social Platform
+
+<p align="left">
+  <p align="left">
+    <span></span>
+    <a href="https://stackoverflow.com/users/11936657/vinit-saini" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/stackexchange.png" alt="Stack Exchange Account" width="40" height="40"/>
+    </a>
+      <a href="https://github.com/sainivinit" target="_blank">
+      <img src="https://img.icons8.com/fluent/40/000000/github.png" alt="Github Account" width="40" height="40"/>
+    </a>
+    <span></span>
+    <a href="https://www.linkedin.com/in/vinit-saini-974a141a9/" target="_blank">
+      <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn Account" width="40" height="40"/>
+    </a>
+    <span></span>
+	<a href="https://www.facebook.com/vinit975/" target="_blank">
+		<img src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png" alt="Facebook Account" width="40" height="40"/>
+    </a>
+    <span></span>
+ 	<a href="https://www.instagram.com/saini_vinit/" target="_blank">
+		<img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram Account" width="40" height="40"/>
+    </a>
+    <span></span>
+	    <span></span>
+ 	<a href="https://sainivinit.github.io/" target="_blank">
+		<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-website-responsive-web-design-justicon-flat-justicon-2.png" alt="Website Account" width="40" height="40"/>
+    </a>
+    <span></span>
+  </p>
