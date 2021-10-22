@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 - [Contact Manager spring boot and thymeleaf](https://github.com/sainivinit/Smart-Contact/)
 
 
- ### 🧪 Frameworks and Libraries
+   
+ ### 🧪 Frameworks, Technologies and Libraries
 <p align="left">
   <p align="left">
         <a href="https://nodejs.org" target="_blank">
@@ -52,12 +53,12 @@ Here are some ideas to get you started:
       <img src="https://img.icons8.com/color/48/000000/android.png" alt="Android" width="40" height="40"/>
     </a>
     <span></span>
-	 <p align="left">
+	
         <a href="https://nodejs.org" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/desktop.png" alt="Desktop Application" width="40" height="40"/>
     </a>
     <span></span>
-	
+	<p align="left">
         <a href="https://nodejs.org" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="Rest Api" width="40" height="40"/>
     </a>
@@ -103,5 +104,3 @@ Here are some ideas to get you started:
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9sE_pO5TFEnpNip5F5OGl_K9VfDxn6jOOw&usqp=CAU" width="30px">](https://www.facebook.com/vinit975/)
 [<img src="https://peopleplus.co.uk/wp-content/uploads/2020/03/linkedin-icon.png" width="30px">](https://www.linkedin.com/in/vinit-saini-974a141a9/)
-
-
