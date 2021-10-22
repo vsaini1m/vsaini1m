@@ -47,17 +47,17 @@ Here are some ideas to get you started:
       <img src="https://img.icons8.com/color/40/000000/java.png" alt="Java" width="40" height="40"/>
     </a>
     <span></span>
-	<p align="left">
+	
         <a href="https://nodejs.org" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/android.png" alt="Android" width="40" height="40"/>
     </a>
     <span></span>
 	 <p align="left">
         <a href="https://nodejs.org" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/java.png" alt="Java" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/000000/desktop.png" alt="Desktop Application" width="40" height="40"/>
     </a>
     <span></span>
-	<p align="left">
+	
         <a href="https://nodejs.org" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="Rest Api" width="40" height="40"/>
     </a>
