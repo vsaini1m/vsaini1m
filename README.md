@@ -40,33 +40,39 @@ Here are some ideas to get you started:
 - [Contact Manager spring boot and thymeleaf](https://github.com/sainivinit/Smart-Contact/)
 
 
-
- ### 🧪 Frameworks and Libraries
+ ### 🧪 Frameworks, Technologies and Libraries
 <p align="left">
   <p align="left">
-        <a href="https://nodejs.org" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="NodeJS" width="40" height="40"/>
+        <a href="https://www.java.com/en/" target="_blank">
+      <img src="https://img.icons8.com/color/40/000000/java.png" alt="Java" width="40" height="40"/>
     </a>
     <span></span>
-    <a href="https://getbootstrap.com/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Boostrap" width="40" height="40"/>
+    <a href="https://www.android.com/intl/en_in/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/android.png" alt="Android" width="40" height="40"/>
     </a>
       <span></span>
-      <a href="https://wordpress.org" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/wordpress.png" alt="WordPress" width="40" height="40"/>
+      <a href="https://v2cloud.com/glossary/what-is-a-desktop-app" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/desktop.png" alt="Desktop application" width="40" height="40"/>
     </a>
     <span></span>
-    <a href="https://firebase.google.com" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="Rest Api" width="40" height="40"/>
     </a>
     <span></span>
-    <a href="https://www.electronjs.org/" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/react-native.png" alt="ElectronJS" width="40" height="40"/>
+    <a href="https://spring.io/projects/spring-boot" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring boot" width="40" height="40"/>
+    </a>
+    <span></span>
+	<a href="https://angular.io/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular 9" width="40" height="40"/>
+    </a>
+    <span></span>
+	 <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="Mysql" width="40" height="40"/>
+    </a>
+    <span></span>
+	<a href="https://www.mongodb.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Mongo DB" width="40" height="40"/>
     </a>
     <span></span>
   </p>
-  
-### How to contact me : 📫
-
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9sE_pO5TFEnpNip5F5OGl_K9VfDxn6jOOw&usqp=CAU" width="30px">](https://www.facebook.com/vinit975/)
-[<img src="https://peopleplus.co.uk/wp-content/uploads/2020/03/linkedin-icon.png" width="30px">](https://www.linkedin.com/in/vinit-saini-974a141a9/)
