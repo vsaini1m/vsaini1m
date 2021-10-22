@@ -86,10 +86,11 @@ Here are some ideas to get you started:
 
 <p align="left">
   <p align="left">
-    <span></span>
+    
     <a href="https://stackoverflow.com/users/11936657/vinit-saini" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/stackexchange.png" alt="Stack Exchange Account" width="40" height="40"/>
     </a>
+	  <span></span>
       <a href="https://github.com/sainivinit" target="_blank">
       <img src="https://img.icons8.com/fluent/40/000000/github.png" alt="Github Account" width="40" height="40"/>
     </a>
