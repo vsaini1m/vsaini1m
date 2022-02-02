@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainivinit&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=erdkse.erdkse)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sainivinit)
 ![](https://hit.yhype.me/github/profile?user_id=2957624)
