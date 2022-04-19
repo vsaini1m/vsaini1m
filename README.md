@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ### My most exclusive projects are : 🧾
 - [Vinu361 (Billing softweare)](https://vinu361.herokuapp.com/)
+- [Vinu361 (School Application)](https://school-vinu361.herokuapp.com/)
 - [Mail client](https://github.com/sainivinit/email-client-application)
 - [Tic Tac Toe](https://vaak-3ac84.firebaseapp.com/)
 - [Exam portal backend using Java (Spring boot)](https://github.com/sainivinit/exam-portal-backend/)
