@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**sainivinit/sainivinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vsaini1m/vsaini1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! I'm [Vinit Saini](https://sainivinit.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+### Hi there! I'm [Vinit Saini](https://vsaini1m.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 - 🔭 I am currently working as a Software Engineer in [Tekege Solutions Pvt. Ltd. | Aavaz Contact Center Solutions](http://www.tekege.com/).
 
@@ -24,23 +24,23 @@ Here are some ideas to get you started:
 - 😍 My domain of interest lies in the field of Full Stack java Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly Angular 9)
 
 
-- You can visit my website [here](https://sainivinit.github.io/). It is hosted using github.io pages.
+- You can visit my website [here](https://vsaini1m.github.io/). It is hosted using github.io pages.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sainivinit&show_icons=true&hide_rank=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=vsaini1m&show_icons=true&hide_rank=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
 
 ### My most exclusive projects are : 🧾
 - [Vinu361 (Billing softweare)](https://vinu361.herokuapp.com/)
 - [Vinu361 (School Application)](https://school-vinu361.herokuapp.com/)
-- [Mail client](https://github.com/sainivinit/email-client-application)
+- [Mail client](https://github.com/vsaini1m/email-client-application)
 - [Tic Tac Toe](https://vaak-3ac84.firebaseapp.com/)
-- [Exam portal backend using Java (Spring boot)](https://github.com/sainivinit/exam-portal-backend/)
-- [Exam portal frontend using Angular](https://github.com/sainivinit/exam-portal-frontend/)
-- [Desktop Billing softweare using java swing](https://github.com/sainivinit/ShakshiTraders/)
-- [Refer and earn Android application](https://github.com/sainivinit/DreamValue/)
-- [Tic Tac Toe rest api using spring boot](https://github.com/sainivinit/TicTacToe/)
-- [Contact Manager spring boot and thymeleaf](https://github.com/sainivinit/Smart-Contact/)
+- [Exam portal backend using Java (Spring boot)](https://github.com/vsaini1m/exam-portal-backend/)
+- [Exam portal frontend using Angular](https://github.com/vsaini1m/exam-portal-frontend/)
+- [Desktop Billing softweare using java swing](https://github.com/vsaini1m/ShakshiTraders/)
+- [Refer and earn Android application](https://github.com/vsaini1m/DreamValue/)
+- [Tic Tac Toe rest api using spring boot](https://github.com/vsaini1m/TicTacToe/)
+- [Contact Manager spring boot and thymeleaf](https://github.com/vsaini1m/Smart-Contact/)
 - 
-<a href="https://www.buymeacoffee.com/sainivinit" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/vsaini1m" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
  ### 🧪 Frameworks, Technologies and Libraries
 <p align="left">
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
     <a href="https://stackoverflow.com/users/11936657/vinit-saini" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/stackexchange.png" alt="Stack Exchange Account" width="40" height="40"/>
     </a>
-      <a href="https://github.com/sainivinit" target="_blank">
+      <a href="https://github.com/vsaini1m" target="_blank">
       <img src="https://img.icons8.com/fluent/40/000000/github.png" alt="Github Account" width="40" height="40"/>
     </a>
     <span></span>
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     </a>
     <span></span>
 	    <span></span>
- 	<a href="https://sainivinit.github.io/" target="_blank">
+ 	<a href="https://vsaini1m.github.io/" target="_blank">
 		<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-website-responsive-web-design-justicon-flat-justicon-2.png" alt="Website Account" width="40" height="40"/>
     </a>
     <span></span>
@@ -131,8 +131,8 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sainivinit&count_private=true&show_icons=true&include_all_commits=true&custom_title=Vinit%27s%20github%20stats&hide_border=true&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainivinit&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vsaini1m&count_private=true&show_icons=true&include_all_commits=true&custom_title=Vinit%27s%20github%20stats&hide_border=true&line_height=28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsaini1m&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sainivinit)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vsaini1m)
 ![](https://hit.yhype.me/github/profile?user_id=50548624)
