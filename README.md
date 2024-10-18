@@ -90,15 +90,15 @@ Here are some ideas to get you started:
       <img src="https://img.icons8.com/fluent/40/000000/github.png" alt="Github Account" width="40" height="40"/>
     </a>
     <span></span>
-    <a href="https://www.linkedin.com/in/vinit-saini-974a141a9/" target="_blank">
+    <a href="https://www.linkedin.com/in/vsaini1m/" target="_blank">
       <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn Account" width="40" height="40"/>
     </a>
     <span></span>
-	<a href="https://www.facebook.com/vinit975/" target="_blank">
+	<a href="https://www.facebook.com/vsaini1m/" target="_blank">
 		<img src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png" alt="Facebook Account" width="40" height="40"/>
     </a>
     <span></span>
- 	<a href="https://www.instagram.com/saini_vinit/" target="_blank">
+ 	<a href="https://www.instagram.com/vsaini1m/" target="_blank">
 		<img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram Account" width="40" height="40"/>
     </a>
     <span></span>
