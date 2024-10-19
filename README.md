@@ -136,3 +136,6 @@ Here are some ideas to get you started:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vsaini1m)
 ![](https://hit.yhype.me/github/profile?user_id=50548624)
+
+
+<a id="raw-url" href="https://vsaini1m.tiiny.site">Download Resume</a>
