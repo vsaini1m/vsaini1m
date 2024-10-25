@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! I'm [Vinit Saini](https://vsaini1m.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+### Hi there! I'm [Vinit Kumar Saini](https://vsaini1m.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 - 🔭 I am currently working as a Software Engineer in [Tekege Solutions Pvt. Ltd. | Aavaz Contact Center Solutions](http://www.tekege.com/).
 
 - 🎓 I have completed my bachelor degree in Computer science from [Hemvati Nandan Bahuguna Garhwal University](http://hnbgu.ac.in/) .
 
-- 😍 My domain of interest lies in the field of Full Stack java Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly Angular 9)
+- 😍 My domain of interest lies in the field of Full Stack java Development, specialized in Backend Development using Java Spring Boot and Frontend Development using TypeScript (mainly Angular 9)
 
 
 - You can visit my website [here](https://vsaini1m.github.io/). It is hosted using github.io pages.
