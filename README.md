@@ -21,7 +21,7 @@
 ### 🚀 About Me
 
 - 🏢 Currently working as a **Software Engineer** at [**Tekege Solutions Pvt. Ltd. | Aavaz Contact Center Solutions**](https://www.tekege.com/).
-- 🎓 Completed **B.Sc. (CS)** from [Hemvati Nandan Bahuguna Garhwal University](http://hnbgu.ac.in/) and **MCA** with 8.25 CGPA.
+- 🎓 Completed **Master of Computer Applications (MCA)** with 8.25 CGPA and **Bachelor of Science (Computer Science + Mathematics)** from [Hemvati Nandan Bahuguna Garhwal University](http://hnbgu.ac.in/).
 - 🧠 Passionate about **Full Stack Java Development**, specializing in:
   - Backend: `Spring Boot`, `Microservices`, `Hibernate`, `JPA`, `MySQL`
   - Frontend: `Angular`, `React`, `TypeScript`
