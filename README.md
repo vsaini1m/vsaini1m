@@ -8,8 +8,8 @@
   <a href="https://github.com/vsaini1m" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:vinit.dev@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vinit.dev%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:vsaini1m@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-vsaini1m%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://vsaini1m.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00b894?style=for-the-badge&logo=react&logoColor=white"/>
