@@ -1,141 +1,104 @@
-### Hi there 👋
+<h1 align="center">Hi there! I'm <a href="https://vsaini1m.github.io/" target="_blank">Vinit Kumar Saini</a> 👋</h1>
+<h3 align="center">💻 Java Developer | Spring Boot | Microservices | AI Workflow Systems</h3>
 
-<!--
-**vsaini1m/vsaini1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vsaini1m/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vsaini1m" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:vinit.dev@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-vinit.dev%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://vsaini1m.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00b894?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
 
-### Hi there! I'm [Vinit Kumar Saini](https://vsaini1m.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+- 🏢 Currently working as a **Software Engineer** at [**Tekege Solutions Pvt. Ltd. | Aavaz Contact Center Solutions**](https://www.tekege.com/).
+- 🎓 Completed **B.Sc. (CS)** from [Hemvati Nandan Bahuguna Garhwal University](http://hnbgu.ac.in/) and **MCA** with 8.25 CGPA.
+- 🧠 Passionate about **Full Stack Java Development**, specializing in:
+  - Backend: `Spring Boot`, `Microservices`, `Hibernate`, `JPA`, `MySQL`
+  - Frontend: `Angular`, `React`, `TypeScript`
+- 🤖 Exploring **AI integrations** with Spring Boot for intelligent workflow automation.
+- 🌍 Building projects that combine **automation**, **analytics**, and **AI-driven insights**.
+- ✨ Always open to **collaborations, new ideas, and innovative backend architectures**.
 
-- 🔭 I am currently working as a Software Engineer in [Tekege Solutions Pvt. Ltd. | Aavaz Contact Center Solutions](http://www.tekege.com/).
+---
 
-- 🎓 I have completed my bachelor degree in Computer science from [Hemvati Nandan Bahuguna Garhwal University](http://hnbgu.ac.in/) .
+### 🧩 Featured Projects
 
-- 😍 My domain of interest lies in the field of Full Stack java Development, specialized in Backend Development using Java Spring Boot and Frontend Development using TypeScript (mainly Angular 9)
+| 🚀 Project | 🔧 Description | 🌐 Link |
+|-------------|----------------|----------|
+| **Aavaz 361-API** | AI-driven CRM & workflow automation platform with multichannel (Email, SMS, WhatsApp) communication. | [Visit Site](https://www.aavaz.biz) |
+| **Hanu-Class** | Online Examination System with live video monitoring and secure Spring Boot + Angular architecture. | [Frontend](https://github.com/vsaini1m/exam-portal-frontend) / [Backend](https://github.com/vsaini1m/exam-portal-backend) |
+| **Lead Assistant (AI)** | AI-powered lead management assistant automating responses and scheduling via OpenAI + Spring Boot. | [GitHub](https://github.com/vsaini1m) |
+| **Vinu361 (School App)** | ERP-style school management system for billing, attendance, and reporting. | [Live Demo](https://school-vinu361.herokuapp.com/) |
 
+---
 
-- You can visit my website [here](https://vsaini1m.github.io/). It is hosted using github.io pages.
+### 🧰 Tech Stack
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=vsaini1m&show_icons=true&hide_rank=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
+#### 🖥️ Backend & Cloud
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
-### My most exclusive projects are : 🧾
-- [Vinu361 (Billing softweare)](https://vinu361.herokuapp.com/)
-- [Vinu361 (School Application)](https://school-vinu361.herokuapp.com/)
-- [Mail client](https://github.com/vsaini1m/email-client-application)
-- [Tic Tac Toe](https://vaak-3ac84.firebaseapp.com/)
-- [Exam portal backend using Java (Spring boot)](https://github.com/vsaini1m/exam-portal-backend/)
-- [Exam portal frontend using Angular](https://github.com/vsaini1m/exam-portal-frontend/)
-- [Desktop Billing softweare using java swing](https://github.com/vsaini1m/ShakshiTraders/)
-- [Refer and earn Android application](https://github.com/vsaini1m/DreamValue/)
-- [Tic Tac Toe rest api using spring boot](https://github.com/vsaini1m/TicTacToe/)
-- [Contact Manager spring boot and thymeleaf](https://github.com/vsaini1m/Smart-Contact/)
-- 
-<a href="https://www.buymeacoffee.com/vsaini1m" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+#### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 
- ### 🧪 Frameworks, Technologies and Libraries
-<p align="left">
-  <p align="left">
-        <a href="https://www.java.com/en/" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/java.png" alt="Java" width="40" height="40"/>
-    </a>
-    <span></span>
-    <a href="https://www.android.com/intl/en_in/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/android.png" alt="Android" width="40" height="40"/>
-    </a>
-      <span></span>
-      <a href="https://v2cloud.com/glossary/what-is-a-desktop-app" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/desktop.png" alt="Desktop application" width="40" height="40"/>
-    </a>
-    <span></span>
-    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="Rest Api" width="40" height="40"/>
-    </a>
-    <span></span>
-    <a href="https://spring.io/projects/spring-boot" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring boot" width="40" height="40"/>
-    </a>
-    <span></span>
-	<a href="https://angular.io/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular 9" width="40" height="40"/>
-    </a>
-    <span></span>
-	 <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="Mysql" width="40" height="40"/>
-    </a>
-    <span></span>
-	<a href="https://www.mongodb.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Mongo DB" width="40" height="40"/>
-    </a>
-    <span></span>
-  </p>
-### 🐱‍🏍 Social Platform
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="left">
-  <p align="left">
-    <span></span>
-    <a href="https://stackoverflow.com/users/11936657/vinit-saini" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/stackexchange.png" alt="Stack Exchange Account" width="40" height="40"/>
-    </a>
-      <a href="https://github.com/vsaini1m" target="_blank">
-      <img src="https://img.icons8.com/fluent/40/000000/github.png" alt="Github Account" width="40" height="40"/>
-    </a>
-    <span></span>
-    <a href="https://www.linkedin.com/in/vsaini1m/" target="_blank">
-      <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn Account" width="40" height="40"/>
-    </a>
-    <span></span>
-	<a href="https://www.facebook.com/vsaini1m/" target="_blank">
-		<img src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png" alt="Facebook Account" width="40" height="40"/>
-    </a>
-    <span></span>
- 	<a href="https://www.instagram.com/vsaini1m/" target="_blank">
-		<img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram Account" width="40" height="40"/>
-    </a>
-    <span></span>
-	    <span></span>
- 	<a href="https://vsaini1m.github.io/" target="_blank">
-		<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-website-responsive-web-design-justicon-flat-justicon-2.png" alt="Website Account" width="40" height="40"/>
-    </a>
-    <span></span>
-  </p>
-## 👨‍💻 What I am doing..
+#### 🧠 AI & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-323330?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=Redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=spring&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-384d54?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vsaini1m&count_private=true&show_icons=true&include_all_commits=true&custom_title=Vinit%27s%20github%20stats&hide_border=true&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsaini1m&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
+### 📊 GitHub Stats
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vsaini1m)
-![](https://hit.yhype.me/github/profile?user_id=50548624)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsaini1m&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsaini1m&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
+---
 
-<a id="raw-url" href="https://vsaini1m.tiiny.site">Download Resume</a>
+### 🌎 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vsaini1m/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/vsaini1m"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+  <a href="https://stackoverflow.com/users/11936657/vinit-saini"><img src="https://img.icons8.com/color/48/000000/stack-overflow.png"/></a>
+  <a href="https://www.instagram.com/vsaini1m/"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png"/></a>
+  <a href="https://vsaini1m.github.io/"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-website-responsive-web-design-justicon-flat-justicon-2.png"/></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://vsaini1m.tiiny.site" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-0078D7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vsaini1m"/>
+</p>
